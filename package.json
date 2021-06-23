@@ -1,0 +1,30 @@
+{
+  "name": "react-native-animated-text",
+  "version": "1.0.0",
+  "description": "A beautiful and fully customizable React Native component that implements Animated text UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedibrahimt/react-native-animated-text.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "animated-text",
+    "animated",
+    "text",
+    "android",
+    "ios",
+    "mobile",
+    "react-native-component"
+  ],
+  "author": "Syed Ibrahim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syedibrahimt/react-native-animated-text/issues"
+  },
+  "homepage": "https://github.com/syedibrahimt/react-native-animated-text#readme"
+}
